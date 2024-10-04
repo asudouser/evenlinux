@@ -1,10 +1,10 @@
 ```
-d88888b db    db d88888b d8b   db db      d888888b d8b   db db    db db    db       db     .d88b.       
-88'     88    88 88'     888o  88 88        `88'   888o  88 88    88 `8b  d8'      o88    .8P  88.      
-88ooooo Y8    8P 88ooooo 88V8o 88 88         88    88V8o 88 88    88  `8bd8'        88    88  d'88      
-88~~~~~ `8b  d8' 88~~~~~ 88 V8o88 88         88    88 V8o88 88    88  .dPYb.        88    88 d' 88      
-88.      `8bd8'  88.     88  V888 88booo.   .88.   88  V888 88b  d88 .8P  Y8.       88 db `88  d8'
-Y88888P    YP    Y88888P VP   V8P Y88888P Y888888P VP   V8P ~Y8888P' YP    YP       VP VP  `Y88P'                                                                                           
+d88888b db    db d88888b d8b   db db      d888888b d8b   db db    db db    db   
+88'     88    88 88'     888o  88 88        `88'   888o  88 88    88 `8b  d8'
+88ooooo Y8    8P 88ooooo 88V8o 88 88         88    88V8o 88 88    88  `8bd8'    
+88~~~~~ `8b  d8' 88~~~~~ 88 V8o88 88         88    88 V8o88 88    88  .dPYb.   
+88.      `8bd8'  88.     88  V888 88booo.   .88.   88  V888 88b  d88 .8P  Y8.
+Y88888P    YP    Y88888P VP   V8P Y88888P Y888888P VP   V8P ~Y8888P' YP    YP                                                                                        
 ```
 <br>
 
